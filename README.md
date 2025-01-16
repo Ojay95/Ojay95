@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ojay95
 - 👀 I’m interested in Software Development
 - 🌱 I’m a Backend Engineer (Java || NodeJS)
-- 💞️ I’m looking to collaborate on Frontend Development Project
+- 💞️ I’m looking to collaborate on Backend Development Project
 - 📫 How to reach me iamojay89@gmail.com
 
 <!---
